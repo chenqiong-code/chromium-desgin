@@ -39,3 +39,5 @@
 
 The JavaScript engine (V8) exposes DOM web APIs as thin wrappers around the real DOM tree through a system called "bindings"
 
+## TODO:把照片贴过来
+
